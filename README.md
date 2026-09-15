@@ -83,7 +83,7 @@ rag-chatbot/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/snigdha031/rag-chatbot.git
+https://github.com/jshardul26/Hardcoded-Rag-chatbot.git
 cd rag-chatbot
 ```
 
